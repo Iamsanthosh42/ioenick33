@@ -1,0 +1,95 @@
+[
+    {
+      "id": "1",
+      "type": "Atta",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "67",
+      "price": "60",
+      "discount": "10.5",
+      "image": "https://www.aashirvaad.com/img/whole_wheat/NMP_FOP1.png"
+    },
+    {
+      "id": "2",
+      "type": "Atta",
+      "name": "Aashirvaad",
+      "weight": "5",
+      "mrp": "350",
+      "price": "335",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/img/whole_wheat/NMP_FOP1.png"
+    },
+    {
+      "id": "3",
+      "type": "Multigrain",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "77",
+      "price": "70",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/img/multigrains/MG_FOP1.png"
+    },
+    {
+      "id": "4",
+      "type": "selected grain",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "77",
+      "price": "70",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/img/select/Select_FOP2.png"
+    },
+    {
+      "id": "5",
+      "type": "sugar release control ",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "85",
+      "price": "85",
+      "discount": "0",
+      "image": "https://www.aashirvaad.com/img/src/SRC_FOP1.png"
+    },
+    {
+      "id": "6",
+      "type": "sugar release control",
+      "name": "Aashirvaad",
+      "weight": "5",
+      "mrp": "385",
+      "price": "346",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/img/src/SRC_FOP1.png"
+    },
+    {
+      "id": "7",
+      "type": "fortified",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "77",
+      "price": "70",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/img/fortified/Fortified_FOP.png"
+    },
+    {
+      "id": "8",
+      "type": "vermicelli",
+      "name": "Aashirvaad",
+      "weight": "1",
+      "mrp": "95",
+      "price": "86",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/Vermicelli/img/vermicelli-pack-mob@2x.png"
+    },
+    {
+      "id": "9",
+      "type": "vermicelli",
+      "name": "Aashirvaad",
+      "weight": "250gm",
+      "mrp": "95",
+      "price": "86",
+      "discount": "10",
+      "image": "https://www.aashirvaad.com/Vermicelli/img/vermicelli-pack-mob@2x.png"
+    }
+
+    
+  ]
+  

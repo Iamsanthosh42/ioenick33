@@ -1,0 +1,15 @@
+<div   *ngFor="let g of glossyzItems">
+
+    <img src="{{g.image}}"> 
+    <h3>{{g.name}}</h3>
+    <h5>Type: {{g.type}} </h5>
+    <h6>Quantity : {{g.weight}}kg</h6>
+    <h6>MRP:{{g.mrp}}/unit</h6>
+    <h4 style="color:blue">Ioenick price:{{g.price}}/unit</h4>
+    <h5 style="color:red">your profit:{{g.discount}}%</h5>
+    <input style="width:120px" type="number" placeholder="Add Quantity">    <br>
+    <button class="btn btn-primary">Add to cart</button>
+
+
+</div>
+{{ errMsg }}

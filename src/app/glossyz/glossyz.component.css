@@ -1,0 +1,27 @@
+*
+{
+    padding:0px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+img
+{
+    width: 194px;
+    height: 259px;
+    border-radius: 10px;
+
+}
+div
+{
+    border: 2px  solid  gray;
+    display: inline-block;
+    margin: 40px;
+    padding: 1px;
+    text-align: center;
+    text-shadow: .5px .5px .5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+
+}
+
+

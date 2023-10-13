@@ -1,0 +1,28 @@
+
+
+.profile-table {
+    margin-left: 150px;
+    width: 80%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .profile-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .profile-table th {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    color: #007BFF;
+    text-align: center;
+  }
+  
+  

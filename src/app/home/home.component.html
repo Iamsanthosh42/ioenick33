@@ -1,0 +1,57 @@
+<nav class="navbar navbar-expand-lg " style="background-color: #e3f2fd; ">
+  <div class="container-fluid">
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#"  routerLink   = "dashboard">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"  routerLink   = "Glossyz" >Glossyz</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Electronics
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="#"  routerLink   = "acc" >Air-Conditioners</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink   = "bc" >Bluetooth</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "camc" >Cameras</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "cc" >Coolers</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "fc" >Fans</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "lc" >Laptops</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "mc" >Micro ovens</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "moc" >Moblies</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "rc" >Refrigerator</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "tc" > Tablets </a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "tec" >Television</a></li>
+              <li><a class="dropdown-item" href="#"  routerLink  = "wmc" >Washing Machines</a></li>
+            </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"  routerLink="Medicines" >Medicines</a>
+            </li>
+        <li class="nav-item dropdown" style="margin-left:1000px;">
+          <a class="nav-link dropdown-toggle"  href="#"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Settings
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#"  routerLink="profile">Profile</a></li>
+            <li><a class="dropdown-item" href="#">Change Password</a></li>
+            <li><a class="dropdown-item" href="#">Contact Us</a></li>
+            <li><a class="dropdown-item" href="#">FeedBack</a></li>
+          </ul>
+      </li>&nbsp;
+      <button class="btn btn-primary">
+        <i style="font-size:30px;" class="fas  fa-cart-plus"></i>
+        <div  style="font-size: 10px;" class="badge bg-danger">6</div>
+      </button>  &nbsp;&nbsp;
+      <button style=" border-radius: 10px; padding:5px" (click)="toLogout()"> Logout</button>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <router-outlet></router-outlet>
+  
+

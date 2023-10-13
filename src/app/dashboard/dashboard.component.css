@@ -1,0 +1,12 @@
+h1{
+   
+    text-transform: capitalize;
+    background:linear-gradient(90deg,rgb(142, 94, 187) 0%,hsla(260, 29%,36%,1) 100%); 
+    color: white;
+}
+marquee{
+    background:linear-gradient(90deg,rgb(142, 94, 187) 0%,hsla(260, 29%,36%,1) 100%); 
+    color:red;
+    height: 50px;
+    font-size: 30px;
+}

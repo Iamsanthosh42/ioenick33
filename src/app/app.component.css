@@ -1,0 +1,30 @@
+.main-content{
+    background-color:rgb(210, 208, 210);
+}
+h1{
+    color:rgb(11, 155, 212);
+    text-decoration: underline;
+    width:auto;
+    font-weight:bold;
+   text-transform:capitalize;
+   margin-left: 42px;
+}
+sub{
+    color:rgb(217, 33, 33);
+}
+
+
+
+
+button
+{
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(99, 49, 149);
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 1400px;
+}
+ button :hover {
+ color: purple;
+}

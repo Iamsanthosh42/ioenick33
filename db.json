@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupusers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "FirstName": "santhosh",
+      "LastName": "kumar",
+      "MoblieNumber": "9852063333",
+      "Email": "sk2200221@gmail.com",
+      "Password": "123456789",
+      "id": 2
+    },
+    {
+      "FirstName": "Thatavarthi",
+      "LastName": "santhoshkumar",
+      "MoblieNumber": "9852063333",
+      "Email": "thatsan@gmail.com",
+      "Password": "789456123",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
